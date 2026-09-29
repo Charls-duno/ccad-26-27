@@ -1,3 +1,3 @@
 ## Write your fullname
-Ralph Damiel B. Loraez
+John kenneth P. Lucero
 # sample
